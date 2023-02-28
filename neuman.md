@@ -8,5 +8,22 @@
 
 ### 之前的工作：
 
-对现实场景的训练
+对现实场景的训练后赋予新动作序列
+
+
+
+
+https://user-images.githubusercontent.com/56157591/221800815-8ca89423-b127-4626-bd64-020a63946951.mp4
+
+
+
+https://user-images.githubusercontent.com/56157591/221800862-1d54f139-e1d7-41a1-acab-92a918b9fab0.mp4
+
+
+
+https://user-images.githubusercontent.com/56157591/221800883-fb8f515a-125d-494f-933f-04e741c1e059.mp4
+
+
+
+https://user-images.githubusercontent.com/56157591/221800909-ce2c6362-7e04-40a3-b202-a80d034419e9.mp4
 
